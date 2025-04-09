@@ -17,7 +17,7 @@ while True:
     elif opcion == "3":
         mostrar_inventario()
     elif opcion == "4":
-        print("¡Hasta luego! ")
+        print("Que tengas un gran dia ")
         break
     else:
-        print(" Opción inválida")
+        print("!LA ACCION ES INVALIDA¡")
